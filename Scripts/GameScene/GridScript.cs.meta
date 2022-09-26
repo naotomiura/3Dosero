@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b94af562a201453a959fe36ecaf7326
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stone_: {fileID: 1990421113714596566, guid: 78d20d064bfe248e69c9f8bf38500d14,
+      type: 3}
+  - blackStonePrefab_: {fileID: 3410846319387595493, guid: 4c6942acaaf8440fc8261b1767c1ec2a,
+      type: 3}
+  - whiteStonePrefab_: {fileID: 2677752020617312174, guid: 391d96ac5b34346cd88e388721a65838,
+      type: 3}
+  - boardScript_: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

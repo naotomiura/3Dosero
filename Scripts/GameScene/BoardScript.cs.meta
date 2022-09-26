@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 18302c4e41aa441f59dc23f5c273b457
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridPrefab_: {fileID: 5326930943396611460, guid: 0f8c873f495f54741a1fea87b976e13b,
+      type: 3}
+  - blackStonePrefab_: {fileID: 3410846319387595493, guid: 4c6942acaaf8440fc8261b1767c1ec2a,
+      type: 3}
+  - whiteStonePrefab_: {fileID: 2677752020617312174, guid: 391d96ac5b34346cd88e388721a65838,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
